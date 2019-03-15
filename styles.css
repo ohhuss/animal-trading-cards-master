@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 320px;
+    padding-left: 0
+
+}
+
+.contentZone > p:first-child {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
